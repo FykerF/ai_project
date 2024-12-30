@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+openai
+requests
+pydantic
+matplotlib
+tqdm
+fastapi
+uvicorn
+streamlit
